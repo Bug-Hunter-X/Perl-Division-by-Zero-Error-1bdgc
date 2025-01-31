@@ -1,0 +1,1 @@
+This repository contains a simple Perl script demonstrating a division by zero error and its solution. The `bug.pl` file contains the erroneous code, while `bugSolution.pl` provides a corrected version.  The error is a common one, highlighting the importance of input validation and error handling in Perl programming.
